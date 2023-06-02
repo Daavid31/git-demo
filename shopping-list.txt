@@ -5,4 +5,3 @@ apa
 rosii
 branza
 banane
-mere
